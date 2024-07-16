@@ -13,7 +13,7 @@ This project is a React application that displays a list of customers and their 
 1- Install the dependencies, write this command : npm install
 
 2- Start the JSON server for the local server to get the API data, write this command : json-server --watch db.json --port 5000
-Alternatively, you can run this command if the previous one does not work : npm run server
+   Alternatively, you can run this command if the previous one does not work : npm run server
 
 3- In a separate terminal, start the React application : npm start
 
