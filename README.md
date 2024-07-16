@@ -1,4 +1,4 @@
-# Route Task - Cuatomers and Transactions
+# Route Task - Customers and Transactions
 
 This project is a React application that displays a list of customers and their transaction data. 
 
@@ -14,8 +14,8 @@ This project is a React application that displays a list of customers and their 
 
 2- Start the JSON server for the local server to get the API data, write this command : json-server --watch db.json --port 5000
 
-Alternatively, you can try write this command if the previous did not work: npm run server
+Alternatively, you can try write this command if the previous did not work : npm run server
 
-3- In a separate terminal, start the React application: npm start
-The application should now be running at http://localhost:3000.
+3- In a separate terminal, start the React application : npm start
 
+The application should run at http://localhost:3000.
